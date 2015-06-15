@@ -30,3 +30,5 @@ The task with "Low" priority will be show in YELLOW and will be the task shown a
 Task Information:
 The tasks will show a brief description of the project and also the EC number of the project.
 When the EC number of a task is clicked, the user will be redirected to the EC System with a search regarding the EC.
+
+Made by Cristian Sanchez, Albert Sanchez.
