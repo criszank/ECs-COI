@@ -1,4 +1,3 @@
-# ECs-COI
 EC system to coordinate the projects that each one of the members of Hubbell Drafting Team
 
 This software works as follows:
@@ -20,7 +19,7 @@ The task that are below each of the members will be shown by priority.
 When external help is needed (Example: Approval of drawings), the system will also notify them.
 
 Tasks Priority:
-The priority for the drafter can be changed by dragging them to a higher or lower position. However, the prioriti level ("Low", "Medium" & "High") can only be changed by the creator of the task.
+The priority for the drafter can be changed by dragging them to a higher or lower position. However, the priority level ("Low", "Medium" & "High") can only be changed by the creator of the task.
 
 Tasks Order By Priority:
 The task with "High" priority will be show in RED and will be the task shown at the top.
@@ -31,4 +30,4 @@ Task Information:
 The tasks will show a brief description of the project and also the EC number of the project.
 When the EC number of a task is clicked, the user will be redirected to the EC System with a search regarding the EC.
 
-Made by Cristian Sanchez and Albert Sanchez.at Hubbell
+Made by Cristian Sanchez and Albert Sanchez for HLI
