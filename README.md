@@ -1,3 +1,4 @@
+#Algo Mas Cool
 EC system to coordinate the projects that each one of the members of Hubbell Drafting Team
 
 This software works as follows:
